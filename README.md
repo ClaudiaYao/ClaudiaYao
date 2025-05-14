@@ -1,7 +1,58 @@
+# 👋 Hi, I'm Claudia Yao Qin
 
-- 🌱 I’m currently working on data analysis, AI and machine learning projects.
-- 👯 I’m looking to collaborate on Python programming, LEGO MindStorms Python/blockly language programming.
-- 💬 Ask me about Python Programming, Scratch 3.0 programming, LEGO MindStorms/Spike modelling/coding.
-- 🌱 Visit my blog for all the articles: https://thecodingfun.com/our-ideas-and-opinion/
-- 📫 How to reach me: claudia.yao2012@gmail.com
-- ⚡ Fun fact: visit my website www.thecodingfun.com
+🎓 Master of Computing in Artificial Intelligence, NUS (2025)  
+📍 Based in Singapore | 💼 Aspiring Data Scientist & Machine Learning Engineer  
+🌐 Website: [thecodingfun.com](https://www.thecodingfun.com)  
+🔗 LinkedIn: [linkedin.com/in/claudia-yao-qin](https://www.linkedin.com/in/claudia-yao-qin)
+
+---
+
+## 🚀 About Me
+
+I’m passionate about building AI solutions that create real-world impact. With a background that spans education, software engineering, and business strategy, I bring a unique blend of technical and leadership skills to every project.
+
+Currently, I’m deepening my expertise in:
+
+- 🧠 Deep Learning (VAE, Diffusion Models, CNNs)
+- 🧮 Machine Learning (Regression, Classification, Feature Engineering)
+- 📊 Data Science (EDA, Visualization, Pipelines)
+- 🤖 Reinforcement Learning (Sokoban agent with custom reward shaping)
+- ☁️ Cloud ML (AWS EC2, S3, RDS, SageMaker)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, Golang, C++, JavaScript, SQL  
+- **Frameworks**: PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas  
+- **Tools**: Git, Docker, CI/CD, FastAPI, Vite, AWS, Spark  
+
+---
+
+## 📚 Recent Projects
+
+- **Digit Recognition with VAE + Diffusion Model**  
+  Generative model for double-digit MNIST classification using PyTorch.
+
+- **Sokoban Reinforcement Learning Agent**  
+  Solved Sokoban puzzle using reward shaping and policy learning.
+
+- **Vehicle Price Prediction (Singapore Market)**  
+  ML pipeline with data preprocessing, model tuning, and performance evaluation.
+
+- **AI Education Bootcamp (The Coding Fun)**  
+  Designed Python and AI curriculum for students aged 10–18 and adult learners.
+
+---
+
+## 📈 Let’s Connect!
+
+If you’re looking for someone who combines technical excellence with a passion for education and innovation, feel free to reach out or collaborate on exciting AI/ML projects.
+
+📫 Email: claudia.yao2012@gmail.com  
+🌐 Website: [thecodingfun.com](https://www.thecodingfun.com)  
+🔗 LinkedIn: [linkedin.com/in/claudia-yao-qin](https://www.linkedin.com/in/claudia-yao-qin)
+
+---
+
+⭐️ Don't forget to check out my pinned repositories!
