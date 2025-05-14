@@ -13,11 +13,11 @@ I’m passionate about building AI solutions that create real-world impact. With
 
 Currently, I’m deepening my expertise in:
 
-- 🧠 Deep Learning (VAE, Diffusion Models, CNNs)
+- 🧠 Deep Learning (VAE, Diffusion Models, CNNs, YOLO)
 - 🧮 Machine Learning (Regression, Classification, Feature Engineering)
 - 📊 Data Science (EDA, Visualization, Pipelines)
 - 🤖 Reinforcement Learning (Sokoban agent with custom reward shaping)
-- ☁️ Cloud ML (AWS EC2, S3, RDS, SageMaker)
+- ☁️ Cloud ML (AWS EC2, S3, RDS, SageMaker, Cognito)
 
 ---
 
