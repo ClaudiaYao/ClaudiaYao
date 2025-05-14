@@ -31,14 +31,20 @@ Currently, I’m deepening my expertise in:
 
 ## 📚 Recent Projects
 
+- **AI SaaS App - RemindMe**
+  Built an AI-powered SaaS app using React + Vite (frontend), FastAPI (backend), deployed on AWS (EC2, S3, RDS, SageMaker).
+  
 - **Digit Recognition with VAE + Diffusion Model**  
-  Generative model for double-digit MNIST classification using PyTorch.
+  Developed a VAE + diffusion model in PyTorch for recognizing double-digit MNIST combinations.
 
 - **Sokoban Reinforcement Learning Agent**  
   Solved Sokoban puzzle using reward shaping and policy learning.
 
 - **Vehicle Price Prediction (Singapore Market)**  
   ML pipeline with data preprocessing, model tuning, and performance evaluation.
+
+- **Test-time Reasoning in LLMs**
+  Integrated tree-search test-time reasoning into generative models to enhance mathematical reasoning.
 
 - **AI Education Bootcamp (The Coding Fun)**  
   Designed Python and AI curriculum for students aged 10–18 and adult learners.
